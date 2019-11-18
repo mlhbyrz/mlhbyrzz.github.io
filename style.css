@@ -1,0 +1,36 @@
+body{
+  
+    border-style: solid;
+    border-color: darkcyan; 
+    
+    
+}
+img{
+    opacity: 0.4;
+    filter: blur(opacity=40)
+}
+
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 3px;
+    margin: 25px 50px 75px 100px;
+    color: crimson;
+    border-style:double;
+    border-color: darkslategrey;
+}
+.ses{
+    margin:25px 50px 75px 100px;
+    border: 1px solid red;
+    padding: 50px 80px 50px 80px;
+    
+    box-sizing: border-box;
+    height: 400px;
+    width: 450px;
+    margin-left: 165px
+
+}
+
+
+    
